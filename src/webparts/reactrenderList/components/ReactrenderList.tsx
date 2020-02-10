@@ -5,7 +5,7 @@ import { escape } from '@microsoft/sp-lodash-subset';
 import { sp } from '@pnp/sp';
 import { ListView, IViewField, SelectionMode, GroupOrder, IGrouping } from "@pnp/spfx-controls-react/lib/ListView";
 import { WebPartTitle } from "@pnp/spfx-controls-react/lib/WebPartTitle";
-//import { Site } from "@pnp/lib/sharepoint/rest/Site";
+
 import { SPHttpClient } from '@microsoft/sp-http';
 import * as $ from 'jquery';
 
