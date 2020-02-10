@@ -24,6 +24,7 @@ export default class ReactrenderList extends React.Component<IReactrenderListPro
     };
   }
   public componentDidMount() {
+    //update
     //sp.web.currentUser.get().then((user) => { 
     var checkifMultipleSitesArray = [];
     var ListNamesArray = [];
