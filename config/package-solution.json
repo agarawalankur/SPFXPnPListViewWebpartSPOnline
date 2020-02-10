@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-spfx-get-data-client-side-solution",
+    "id": "9afddb49-3d07-41ab-bf1b-9781d095b292",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/react-spfx-get-data.sppkg"
+  }
+}

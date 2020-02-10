@@ -1,0 +1,21 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "reactrender-list-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/reactrenderList/ReactrenderListWebPart.js",
+          "manifest": "./src/webparts/reactrenderList/ReactrenderListWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "jquery": "https://code.jquery.com/jquery-3.1.0.min.js"
+  },
+  "localizedResources": {
+    "ReactrenderListWebPartStrings": "lib/webparts/reactrenderList/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js"
+  }
+}
