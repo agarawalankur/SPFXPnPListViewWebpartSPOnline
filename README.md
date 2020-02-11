@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## react-spfx-get-data
 
 This is where you include your WebPart documentation.
@@ -24,3 +25,7 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+=======
+# SPFXPnPListViewWebpartSPOnline
+Display data from single list or multiple lists using PnP list view webpart, Easy to configure and re-use
+>>>>>>> e0003a686794b27855393815693e55790d967598
