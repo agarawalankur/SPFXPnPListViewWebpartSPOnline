@@ -1,11 +1,18 @@
 
 ## react-spfx-get-data
 
-SPFX webpart to display list data from single/multiple lists using REST API.
+SPFX webpart to display list data from single/multiple lists using REST API.Easy to configure and re-use
 
 Using PnP list view webpart to reder data with configurable option to search and filter. Webpart can be configured with set to defined filters/views/groups etc.
 
+This webpart can be used to display pending tasks from single task list or from multiple task lists
 
+Screen Shot Below :
+
+![Screenshot](https://github.com/agarawalankur/SPFXPnPListViewWebpartSPOnline/blob/master/Snapshot.png)
+
+Webpart can be configured using below options.
+![Screenshot](https://github.com/agarawalankur/SPFXPnPListViewWebpartSPOnline/blob/master/WebpartConfig.png)
 
 ### Building the code
 
@@ -23,13 +30,11 @@ This package produces the following:
 * deploy/* - all resources which should be uploaded to a CDN.
 
 ### Build options
+=======
+
 
 gulp clean - TODO
 gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
-=======
-# SPFXPnPListViewWebpartSPOnline
-Display data from single list or multiple lists using PnP list view webpart, Easy to configure and re-use
->>>>>>> e0003a686794b27855393815693e55790d967598
