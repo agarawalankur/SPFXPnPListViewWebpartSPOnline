@@ -1,7 +1,11 @@
-<<<<<<< HEAD
+
 ## react-spfx-get-data
 
-This is where you include your WebPart documentation.
+SPFX webpart to display list data from single/multiple lists using REST API.
+
+Using PnP list view webpart to reder data with configurable option to search and filter. Webpart can be configured with set to defined filters/views/groups etc.
+
+
 
 ### Building the code
 
