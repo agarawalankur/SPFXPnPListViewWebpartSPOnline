@@ -1,5 +1,5 @@
 
-## react-spfx-get-data
+## SPFX webpart using PnP List view control
 
 SPFX webpart to display list data from single/multiple lists using REST API.Easy to configure and re-use
 
